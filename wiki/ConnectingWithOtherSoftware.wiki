@@ -1,0 +1,16 @@
+#labels Featured
+#How to connect Live Loop to other software like Reason or Ableton
+
+= Introduction =
+
+First download and install [http://www.midiox.com/index.htm?http://www.midiox.com/myoke.htm MidiYoke]
+
+
+= Connection=
+
+In Live Loop select your keyboard as input
+Select MidiYoke1 as output
+
+In your music software, go to the configuration and select MidiYoke1 as input.
+
+Live Loop is now connected to your software
