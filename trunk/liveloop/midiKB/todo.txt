@@ -1,0 +1,18 @@
+---------------
+Version 0.3
+---------------
+Allow the user to define the sequence length with a controller
+
+---------------
+Version 0.4
+---------------
+Set the midi synchronisation option
+increase performance
+
+
+
+-midi synchro
+-ihm GEF
+-tray bar
+-taille de sequence variable
+
