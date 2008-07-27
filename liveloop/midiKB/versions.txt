@@ -1,0 +1,18 @@
+---------------
+Version 0.2
+---------------
+Provide a ui made in swing, work on all plateforms
+Save automatically the configuration when you quit the program
+Provide an executable with splash screen on windows
+
+---------------
+Version 0.1
+---------------
+Provide a ui made with swt, 12Mo are necessary with all the libs
+Work only on windows
+
+
+---------------
+Version 0.1B
+---------------
+First release, provide full api with the sequencing system
