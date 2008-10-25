@@ -3,7 +3,7 @@
 
 = Introduction =
 
-First download and install [http://www.midiox.com/index.htm?http://www.midiox.com/myoke.htm MidiYoke]
+First  download and install [http://www.midiox.com/zip/MidiYokeSetup.msi MidiYoke], if you have a problem you can consult the [http://www.midiox.com/index.htm?http://www.midiox.com/myoke.htm web site and documentation]
 
 
 = Connection=
